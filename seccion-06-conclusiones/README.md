@@ -86,5 +86,6 @@ Este proyecto permitió ejercitar la adaptabilidad y comprensión profunda de c�
 ---
 
 **Desarrollado por:** Luis Anthony Flores Portillo  
-**Proyecto Final – Base de Datos No Relacionales – 2025**
+**Proyecto Final – Base de Datos No Estructuradas – 2025**
+**Profesor:** Pablo Martínez Castro
 
