@@ -134,3 +134,8 @@ Este documento describe la estructura del modelo relacional utilizado como base 
 
 **Relevancia:** Añade complejidad transaccional. Clave para simulaciones de ingresos adicionales y relación M:N.
 
+📄 [Ver script SQL del modelo relacional](docs/Database.sql)
+
+🧭 ![Diagrama ER](docs/Diagrama ER.png)
+
+
