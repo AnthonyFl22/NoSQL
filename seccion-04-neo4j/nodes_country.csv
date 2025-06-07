@@ -1,0 +1,11 @@
+country_id:ID(Country),name,iso_code,currency
+1,Mexico,MX,MXN
+2,United States,US,USD
+3,Canada,CA,CAD
+4,Spain,ES,EUR
+5,France,FR,EUR
+6,Germany,DE,EUR
+7,Brazil,BR,BRL
+8,Argentina,AR,ARS
+9,Japan,JP,JPY
+10,Australia,AU,AUD

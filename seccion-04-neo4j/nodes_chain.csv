@@ -1,0 +1,26 @@
+chain_id:ID(HotelChain),name,founded_year:int,hq_city,country_id:ID(Country)
+1,Fowler Hospitality,2015,Lake Joshuabury,2
+2,Taylor Hospitality,1976,Lake Joyside,5
+3,Miller Hospitality,1990,Johnsonland,4
+4,Robinson Hospitality,1983,New Jamesside,2
+5,Barnes Hospitality,2009,Lawrencetown,2
+6,Blake Hospitality,2012,Lake Roberto,7
+7,Ramirez Hospitality,1977,Port Matthew,1
+8,Davis Hospitality,1980,West Melanieview,4
+9,Roman Hospitality,1989,Herrerafurt,9
+10,Miller Hospitality,2013,Mariastad,1
+11,Ray Hospitality,2010,North Donnaport,4
+12,Galloway Hospitality,2009,Port Craig,7
+13,Ramirez Hospitality,1989,Franciscostad,8
+14,Clark Hospitality,2012,Jacquelineland,5
+15,Lynch Hospitality,1975,New Jessica,3
+16,Martin Hospitality,2002,Nelsonside,6
+17,Robinson Hospitality,1992,Meganton,3
+18,Perez Hospitality,1988,Port Leslieview,6
+19,Jones Hospitality,1981,Jasonfort,2
+20,Foster Hospitality,1999,Thomasberg,2
+21,Wright Hospitality,1997,Juliechester,6
+22,Hurst Hospitality,2013,Coxberg,5
+23,Hicks Hospitality,1977,Port Brandonville,8
+24,Hernandez Hospitality,2009,Port Erin,2
+25,Carlson Hospitality,1999,Jamesmouth,2

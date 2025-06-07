@@ -1,0 +1,164 @@
+hotel_id:ID(Hotel),name,city,stars:int,chain_id:ID(HotelChain)
+1,Rice Suites,Lake Jenniferside,5,1
+2,Gaines Inn,Meaganhaven,5,1
+3,Hickman Resort,Johnbury,3,1
+4,Baker Inn,Brandtside,4,1
+5,Martinez Resort,North Matthew,3,1
+6,Heath Resort,New Johnfort,4,1
+7,Aguirre Suites,North Collin,4,1
+8,Lee Inn,Taylorburgh,4,2
+9,Russell Suites,Lewisfurt,3,2
+10,Cowan Suites,Mooreport,5,2
+11,Calhoun Resort,North Susan,5,2
+12,Sanchez Inn,New Christophershire,5,2
+13,Smith Inn,North Amandahaven,3,2
+14,Contreras Hotel,Sarahville,4,2
+15,Robbins Inn,Lake Cynthia,5,3
+16,Wise Suites,Evanmouth,3,3
+17,Jordan Inn,West Michaelton,3,3
+18,White Suites,Kimberlychester,4,3
+19,Sellers Suites,Kevinbury,3,3
+20,Ross Inn,Sheilaville,5,3
+21,Wilson Suites,West Bradley,3,3
+22,Parker Hotel,Nguyenport,5,4
+23,Smith Hotel,Jasonshire,3,4
+24,Beck Suites,Clarencebury,3,4
+25,Lee Inn,Snyderbury,5,4
+26,Holmes Suites,New Johnville,5,4
+27,Manning Hotel,Colebury,5,4
+28,Orozco Hotel,East Edwardfurt,4,4
+29,Perry Inn,Port Robert,3,4
+30,Castaneda Resort,Medinaside,3,5
+31,Shelton Resort,Ramseymouth,3,5
+32,Taylor Inn,Whiteview,5,5
+33,Smith Hotel,West Jeffreyland,5,5
+34,Wilson Resort,South Holly,4,5
+35,Vargas Hotel,North Heidi,5,5
+36,Smith Hotel,Shortville,5,5
+37,Adams Suites,Port Sarah,5,5
+38,Kelly Resort,Matthewview,5,6
+39,Allen Suites,Brewerfort,5,6
+40,Coleman Suites,Michaelmouth,3,6
+41,Hill Suites,Tinaborough,4,6
+42,Salas Inn,Taylormouth,4,6
+43,Avery Suites,East Davidchester,5,7
+44,Torres Inn,New Susanville,5,7
+45,Jones Resort,South Shannonfort,5,7
+46,Walker Suites,West Margaret,5,7
+47,Torres Inn,Benderhaven,3,7
+48,Sampson Inn,Barbaraburgh,5,8
+49,Cook Resort,Port Eugenechester,5,8
+50,Sandoval Suites,Gutierrezborough,4,8
+51,Johnson Resort,Lake Eric,3,8
+52,Holland Suites,South Sarah,4,8
+53,Romero Inn,Port Chad,3,8
+54,Washington Inn,Andreaside,5,8
+55,Thornton Resort,Hughesberg,5,9
+56,Jones Hotel,Matthewfurt,3,9
+57,Welch Inn,Wendyland,3,9
+58,Thomas Hotel,Knightburgh,5,9
+59,Hall Inn,Stevetown,4,9
+60,Gonzalez Inn,Castanedaville,5,10
+61,Barrett Inn,Alanton,5,10
+62,Kramer Suites,New Michaelberg,4,10
+63,Mata Suites,Mariaview,4,10
+64,Gibbs Hotel,West Amandamouth,3,10
+65,Murphy Inn,Lake Bryan,3,10
+66,Young Resort,South Shawn,4,10
+67,Wallace Resort,Port Michael,5,10
+68,Maddox Inn,Port Matthewberg,3,11
+69,Lester Resort,West Micheleberg,5,11
+70,Tyler Resort,New Mario,3,11
+71,West Resort,Williamville,3,11
+72,Parks Suites,Josephmouth,3,11
+73,Kelley Inn,Oscarhaven,4,11
+74,Gutierrez Inn,Rossville,5,12
+75,Garner Inn,Lisaside,5,12
+76,Ortega Hotel,Parrishton,3,12
+77,Richardson Hotel,Audreychester,4,12
+78,Dorsey Inn,Adamberg,3,12
+79,Frank Resort,North Ericton,5,12
+80,Fischer Hotel,West Russellport,4,12
+81,Saunders Hotel,Keithville,4,12
+82,Barnett Resort,Charleston,5,13
+83,Burch Resort,Port Stacey,3,13
+84,Harrell Hotel,Jeffreyburgh,5,13
+85,Bell Suites,East Curtis,3,13
+86,Lin Inn,Edwardland,3,13
+87,Wood Inn,Chaseland,5,13
+88,Shepherd Hotel,Toniland,3,13
+89,Hughes Hotel,Erikaton,3,13
+90,Alvarado Hotel,Kylefurt,3,14
+91,Li Resort,Lake Ellenhaven,4,14
+92,Romero Resort,Lake Matthewberg,3,14
+93,Goodwin Resort,Youngbury,3,14
+94,Burch Inn,Port Cassandra,3,14
+95,Hernandez Hotel,Davisbury,4,14
+96,Galvan Hotel,Laceyberg,3,14
+97,Scott Resort,New Shelby,3,15
+98,Carlson Hotel,Lake Zacharybury,3,15
+99,Beck Hotel,New Theresaland,4,15
+100,Kramer Hotel,Johnville,4,15
+101,Johnson Hotel,North Kylie,5,15
+102,Lucas Hotel,Michaelton,3,15
+103,Richardson Inn,Lauriechester,4,15
+104,Guerrero Inn,Seanchester,3,15
+105,Mendez Suites,Hillton,3,16
+106,Allison Resort,Johnsonland,5,16
+107,Cole Hotel,Nathanland,5,16
+108,Johnson Inn,South April,3,16
+109,Gonzalez Resort,Port Charles,3,16
+110,Daniels Resort,Melissaburgh,5,17
+111,Wood Inn,New Nicole,4,17
+112,Martinez Resort,Dawnmouth,5,17
+113,Holmes Inn,Fredmouth,5,17
+114,Hill Resort,Christinaland,5,17
+115,Williams Hotel,North Brandonshire,5,18
+116,Ballard Suites,Evansland,4,18
+117,Hensley Inn,Jessicastad,5,18
+118,Williams Suites,Linchester,3,18
+119,Jimenez Suites,Tylerland,4,18
+120,Herrera Suites,South Dennisview,4,19
+121,Duran Suites,Marciaville,3,19
+122,Morales Resort,North Benjaminmouth,4,19
+123,Stevenson Resort,Brittneyhaven,3,19
+124,Robles Inn,New Thomasshire,5,19
+125,Harvey Suites,Hernandezbury,3,19
+126,Gutierrez Resort,South Warren,3,20
+127,Frye Suites,Barrmouth,4,20
+128,Bush Inn,Stewartstad,4,20
+129,Moses Suites,West Sandraview,5,20
+130,Perez Resort,North Craig,5,20
+131,Avila Suites,Manuelton,5,20
+132,Butler Resort,North Wendy,3,20
+133,Warren Resort,Port William,3,21
+134,Carr Inn,Wilcoxhaven,4,21
+135,Molina Suites,Kevinshire,5,21
+136,Parks Inn,Hannahport,5,21
+137,Todd Suites,Port John,3,21
+138,Brown Suites,New Amanda,5,21
+139,Griffin Hotel,South Davidchester,4,21
+140,Jones Resort,Cooperland,5,22
+141,Brewer Hotel,Brooksfurt,4,22
+142,Davenport Resort,West Stevenside,3,22
+143,Mendez Suites,East Jamieville,3,22
+144,Robinson Suites,East Williamport,3,22
+145,Thomas Hotel,South Kevin,5,23
+146,David Resort,Floydmouth,3,23
+147,Hart Resort,Grantberg,5,23
+148,Nunez Inn,Port Charlesshire,5,23
+149,Wilson Resort,Rochaborough,4,23
+150,Gill Inn,Robinstad,4,23
+151,Rivera Inn,Hudsonbury,3,23
+152,Freeman Suites,New Arthurland,4,23
+153,Brooks Suites,Hopkinstown,3,24
+154,Nichols Inn,Andrechester,5,24
+155,Norton Resort,West Susanmouth,4,24
+156,Bennett Hotel,Browntown,5,24
+157,Schwartz Inn,Nelsonland,3,24
+158,Martin Inn,New Mary,4,25
+159,Davis Resort,Port Charles,3,25
+160,Miller Suites,Laurenland,4,25
+161,Smith Inn,Seanview,4,25
+162,Gomez Inn,New Carlymouth,5,25
+163,Turner Resort,Thomasburgh,4,25

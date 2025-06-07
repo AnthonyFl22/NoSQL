@@ -1,0 +1,13 @@
+service_id:ID(Service),name,category,price_unit:float
+1,Desayuno buffet,alimentos,15.00
+2,Cena gourmet,alimentos,35.00
+3,Spa básico,spa,45.00
+4,Masaje deluxe,spa,90.00
+5,Traslado aeropuerto,transporte,25.00
+6,Tour ciudad,transporte,40.00
+7,Lavandería,otros,10.00
+8,Room-service,alimentos,20.00
+9,Baby-sitting,otros,30.00
+10,Parking,otros,8.00
+11,Mini-bar,alimentos,12.00
+12,Internet premium,otros,5.00
