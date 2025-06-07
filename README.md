@@ -4,7 +4,7 @@ Este repositorio contiene el análisis comparativo de diferentes motores de base
 
 ## 📚 Secciones del proyecto
 
-- [01 - Introducción](Sección I. Introducción/)
+- [Sección I - Introducción](NoSQL/Sección%20I.%20Introducción/)
 - [02 - Modelo de Datos y MySQL](seccion-02-modelo-datos/)
 - [03 - MongoDB](seccion-03-mongodb/)
 - [04 - Neo4j](seccion-04-neo4j/)
